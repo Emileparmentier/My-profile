@@ -1,0 +1,57 @@
+img {
+	border-radius : 50%;
+	width : 200px;
+	height: 200px;
+	 }
+
+.card {
+	text-align: center;
+	color: yellow;
+}
+
+body{
+	font-family: Arial, sans serif;
+	background-color: rgb(200,200,200);
+	line-height: 1.6;
+}
+h1{
+	font-size:24px;
+	text-align: center;
+	color: yellow;
+
+}
+h2{
+	color: white;
+	font-size:20px;
+	text-align:center;
+	background: black;
+	line-height: 2;
+}
+h3{
+	font-size:18px;
+	text-align:center
+	color : yellow;
+	line-height: 0.1;
+
+}
+span{
+	font-style:italic;
+}
+h4{
+	line-height: 0.1;
+	color: yellow;
+
+
+
+}
+h5{
+	font-size:15px;
+	font-style:italic;
+	line-height: 0.1;
+	color:yellow;
+
+}
+
+p{
+	line-height: 0.1;
+}
